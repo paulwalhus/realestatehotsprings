@@ -136,6 +136,11 @@ h3 { font-size: 1.3rem; font-weight: 600; }
   text-decoration: none;
 }
 
+.logo-img {
+  height: 50px;
+  width: auto;
+}
+
 .logo-name {
   font-family: 'Playfair Display', Georgia, serif;
   font-size: 1.35rem;
@@ -324,6 +329,17 @@ h3 { font-size: 1.3rem; font-weight: 600; }
   font-size: 1.1rem;
   max-width: 640px;
   margin: 0 auto;
+}
+
+/* ---- About Seal ---- */
+.about-seal {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto 20px;
+  display: block;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.12);
 }
 
 /* ---- About ---- */
@@ -740,6 +756,14 @@ h3 { font-size: 1.3rem; font-weight: 600; }
   padding-bottom: 40px;
   border-bottom: 1px solid rgba(255,255,255,0.1);
   margin-bottom: 32px;
+}
+
+.footer-logo {
+  max-width: 100%;
+  width: 360px;
+  height: auto;
+  border-radius: var(--radius);
+  margin-bottom: 20px;
 }
 
 .footer .logo-name {
