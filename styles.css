@@ -218,7 +218,7 @@ h3 { font-size: 1.3rem; font-weight: 600; }
   justify-content: center;
   background:
     linear-gradient(135deg, rgba(26, 39, 68, 0.82) 0%, rgba(26, 39, 68, 0.55) 100%),
-    url('images/hero-lake.jpg');
+    url('images/lake-hamilton-aerial.webp');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -477,19 +477,19 @@ h3 { font-size: 1.3rem; font-weight: 600; }
 }
 
 .area-img-hotsprings {
-  background-image: url('images/area-downtown.jpg');
+  background-image: url('images/hot-springs-downtown-sunset.webp');
 }
 
 .area-img-village {
-  background-image: url('images/area-golfcourse.jpg');
+  background-image: url('images/hot-springs-luxury-estate.jpg');
 }
 
 .area-img-hamilton {
-  background-image: url('images/area-lake.jpg');
+  background-image: url('images/lake-hamilton-aerial.webp');
 }
 
 .area-img-catherine {
-  background-image: url('images/area-serene-lake.jpg');
+  background-image: url('images/lake-hamilton-marina.webp');
 }
 
 .area-info {
@@ -510,7 +510,7 @@ h3 { font-size: 1.3rem; font-weight: 600; }
 .why-hs {
   background:
     linear-gradient(135deg, rgba(26, 39, 68, 0.92) 0%, rgba(26, 39, 68, 0.85) 100%),
-    url('images/area-mountain-lake.jpg') !important;
+    url('images/hot-springs-downtown-sunset.webp') !important;
   background-size: cover !important;
   background-position: center !important;
   background-attachment: fixed !important;
@@ -838,11 +838,11 @@ h3 { font-size: 1.3rem; font-weight: 600; }
 }
 
 .photo-divider-lake {
-  background-image: url('images/area-lake2.jpg');
+  background-image: url('images/lake-hamilton-aerial.webp');
 }
 
 .photo-divider-house {
-  background-image: url('images/hero-house.jpg');
+  background-image: url('images/hot-springs-luxury-estate.jpg');
 }
 
 /* ---- Animations ---- */
